@@ -1,4 +1,5 @@
-git checkout -b develop
-# Alteração da 'develop'
 
+# Alteração da 'develop'
+=======
+# Alteração da 'master'
 
