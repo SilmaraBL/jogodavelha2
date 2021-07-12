@@ -1,2 +1,2 @@
 git checkout master
-# Alteração da 'master'
+# Alteração da 'develop'
